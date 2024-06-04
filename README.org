@@ -1,0 +1,1 @@
+In order to run it correctly, Redis service should be active and running on port 6379.
